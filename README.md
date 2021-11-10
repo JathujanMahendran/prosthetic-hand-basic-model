@@ -11,7 +11,7 @@ We can further develop this and create a real prosthetic hand model.
 </p>
 
 <p align="center">
-<img src="source/images/img-1.jpg" height="700px" weidth="700px" >
+<img src="source/images/img-2.jpg" height="700px" weidth="700px" >
 </p>
 
 <p align="justify">
